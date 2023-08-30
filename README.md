@@ -16,114 +16,91 @@ gymnases de "VILLETANEUSE" ou de "SARCELLES" qui ont une surface de plus de 400 
 <img src="https://i.imgur.com/hucEntB.png" alt="table seances"/>             
 <br />
 <br />
-Classement par ordre décroissant par age des sportifs  : <br/>
-<img src="https://i.imgur.com/XPDpQw2.png" alt="Age Desc"/>
+Quels sont les sportifs (nom et prénom) qui pratiquent (i.e. jouent) du hand ball ?  : <br/>
+<img src="https://imgur.com/wc8Olxj" alt="handBall"/>
 <br />
 <br />
-Mise en avant des 5 plus grands gymnases en surface : <br/>
-<img src="https://i.imgur.com/3nG8lFL.png" alt="3"/>
+Dans quels gymnases peut-on jouer au hockey le mercredi après 15H ? : <br/>
+<img src="https://imgur.com/JVy8gS1" alt="3"/>
 <br />
 <br />
-Affichage des sportifs ayant plus de 30 ans : <br/>
-<img src="https://i.imgur.com/IhONE3O.png" alt="4"/>
+Quels gymnases proposent des séances de basket ball ou de volley ball ? : <br/>
+<img src="https://imgur.com/tW955ta" alt="4"/>
 <br />
 <br />
-Affichage des gymnases de la ville de Stains : <br/>
-<img src="https://i.imgur.com/CoY4gTU.png" alt="5"/>
+Quels sont les entraineurs qui sont aussi joueurs ? : <br/>
+<img src="https://imgur.com/o0RDyvc" alt="5"/>
 <br />
 <br />
-Affichage des sportifs sans coach : <br/>
-<img src="https://i.imgur.com/7q8A2o8.png" alt="6"/>
+Quels sont les sportifs qui sont des conseillers ? : <br/>
+<img src="https://imgur.com/Sc3ZaFY" alt="6"/>
 <br />
 <br />
-Liste des sports proposé : <br/>
-<img src="https://i.imgur.com/oEYfoxL.png" alt="7"/>
+Pour le sportif "Kervadec" quel est le nom de son conseiller ? : <br/>
+<img src="https://imgur.com/NpVaYrg" alt="7"/>
 <br />
 <br />
-Affichage des valeurs de la colonne Sexe : <br/>
-<img src="https://i.imgur.com/qXMoDPq.png" alt="8"/>
+Quels entraineurs entrainent du hand ball et du basket ball ? : <br/>
+<img src="https://imgur.com/lhiKIrK" alt="8"/>
 <br />
 <br />
-Durée en heure des séances : <br/>
-<img src="https://i.imgur.com/kqXasdP.png" alt="9"/>
+Quelle est la moyenne d’âge des sportives qui pratiquent du basket ball ? : <br/>
+<img src="https://imgur.com/sVdBifl" alt="9"/>
 <br />
 <br />
-conversion en pi2 de la surface des gymnases : <br/>
-<img src="https://i.imgur.com/uuw2FLs.png" alt="10"/>
+Quels sportifs (nom et prénom) ne pratiquent aucun sport ? : <br/>
+<img src="https://imgur.com/dOfFfwV" alt="10"/>
 <br />
 <br />
-Concaténation des colonnes Nom et Prénom : <br/>
-<img src="https://i.imgur.com/eFqgV0G.png" alt="11"/>
+Pour chaque sportif donner le nombre de sports qu'il arbitre : <br/>
+<img src="https://imgur.com/v2asAOS" alt="11"/>
 <br />
 <br />
-Affichage des gymnases se trouvant sur une place : <br/>
-<img src="https://i.imgur.com/hXyrUEG.png" alt="12"/>
+Quels sont les gymnases ayant plus de 15 séances le mercredi ? : <br/>
+<img src="https://imgur.com/uteK7kU" alt="12"/>
 <br />
 <br />
-jour de la semaine du 1er janvier de l'année de naissance de chaque sportif : <br/>
-<img src="https://i.imgur.com/ywmNLTJ.png" alt="13"/>
+Dans quels gymnases et quels jours y a-t’il au moins 4 séances de volley ball dans la journée : <br/>
+<img src="https://imgur.com/qHdMEZQ" alt="13"/>
 <br />
 <br />
-Création colonne civilité : <br/>
-<img src="https://i.imgur.com/c4KzKmY.png" alt="14"/>
+Pour chaque entraîneur de hand ball quel est le nombre de séances journalières qu’il assure ? : <br/>
+<img src="https://imgur.com/qMCt64X" alt="14"/>
 <br />
 <br />
-Classification des gymnases en fonction de la surface : <br/>
-<img src="https://i.imgur.com/Ll8IpYP.png" alt="15"/>
+Pour chaque gymnase de "MONTMORENCY" : quel est le nombre de séances journalières de chaque sport proposé ? : <br/>
+<img src="https://imgur.com/TY0SHee" alt="15"/>
 <br />
 <br />
-Nombre de sportifs : <br/>
-<img src="https://i.imgur.com/aGxrnl3.png" alt="16"/>
+Quel est le sport pour lequel les joueurs sont les plus jeunes ? : <br/>
+<img src="https://imgur.com/dXf9ZH7" alt="16"/>
 <br />
 <br />
-nombre de sportifs ayant un conseiller : <br/>
-<img src="https://i.imgur.com/JK0fNcl.png" alt="17"/>
+Quels gymnases n'ont pas de séances le dimanche ? : <br/>
+<img src="https://imgur.com/undefined" alt="17"/>
 <br />
 <br />
-nombre de villes distinctes : <br/>
-<img src="https://i.imgur.com/RQNC0dv.png" alt="18"/>
+Pour chaque gymnase de "STAINS" donner par jour d’ouverture les horaires des premières et dernières séances : <br/>
+<img src="https://imgur.com/fNFjqak" alt="18"/>
 <br />
 <br />
-Surface moyenne des gymnases : <br/>
-<img src="https://i.imgur.com/jYw2v4Z.png" alt="19"/>
+Quels entraîneurs n’entraînent que du hand ball et/ou du basket ball, mais aucun autre sport ? : <br/>
+<img src="https://imgur.com/YiaMEFy" alt="19"/>
 <br />
 <br />
-Age moyen, max et min des sportifs : <br/>
-<img src="https://i.imgur.com/QHbQJF0.png" alt="20"/>
+pour chaque sportif (nom et prénom) le nombre de sports qu'il joue, le nombre de sports qu'il arbitre, le nombre de sports qu'il entraîne : <br/>
+<img src="https://imgur.com/bruwybF" alt="20"/>
 <br />
 <br />
-Sportifs hommes : <br/>
-<img src="https://i.imgur.com/Wi5PdWv.png" alt="21"/>
+Quels sont les couples de sportifs (Identifiant et nom et prénom de chaque sportif) ayant le même âge et le même conseiller ? : <br/>
+<img src="https://imgur.com/hGTejFA" alt="21"/>
 <br />
 <br />
-Sportifs femmes : <br/>
-<img src="https://i.imgur.com/JnAUgmp.png" alt="22"/>
+Quels sont les plus grands gymnases de chaque ville ? : <br/>
+<img src="https://imgur.com/l8yp6lk" alt="22"/>
 <br />
 <br />
-Affichage du plus petit et du plus grand gymnase par ville : <br/>
-<img src="https://i.imgur.com/RteCRUk.png" alt="23"/>
-<br />
-<br />
-Ville ayant plus de 5 gymnases : <br/>
-<img src="https://i.imgur.com/1Uvgdy7.png" alt="24"/>
-<br />
-<br />
-Les 5 sportifs les plus agés : <br/>
-<img src="https://i.imgur.com/IDMVnyB.png" alt="25"/>
-<br />
-<br />
-Gymnase ayant une surface supérieur ou égal à 500 m2 : <br/>
-<img src="https://i.imgur.com/ESAzHwf.png" alt="26"/>
-<br />
-<br />
-Nombre de sportifs par sport : <br/>
-<img src="https://i.imgur.com/HhuDCgC.png" alt="27"/>
-<br />
-<br />
-Classification des sportifs par age : <br/>
-<img src="https://i.imgur.com/rqqeaQp.png" alt="28"/>
-<br />
-<br />
+
 
 </p>
 
