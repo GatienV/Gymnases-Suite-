@@ -77,7 +77,7 @@ Quel est le sport pour lequel les joueurs sont les plus jeunes ? : <br/>
 <br />
 <br />
 Quels gymnases n'ont pas de séances le dimanche ? : <br/>
-<img src="https://imgur.com/undefined.png" alt="17"/>
+<img src="https://imgur.com/A0XEFBa.png" alt="17"/>
 <br />
 <br />
 Pour chaque gymnase de "STAINS" donner par jour d’ouverture les horaires des premières et dernières séances : <br/>
