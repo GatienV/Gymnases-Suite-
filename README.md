@@ -17,7 +17,7 @@ gymnases de "VILLETANEUSE" ou de "SARCELLES" qui ont une surface de plus de 400 
 <br />
 <br />
 Quels sont les sportifs (nom et prénom) qui pratiquent (i.e. jouent) du hand ball ?  : <br/>
-<img src="https://imgur.com/wc8Olxj" alt="handBall"/>
+<img src="https://imgur.com/wc8Olxj.png" alt="handBall"/>
 <br />
 <br />
 Dans quels gymnases peut-on jouer au hockey le mercredi après 15H ? : <br/>
